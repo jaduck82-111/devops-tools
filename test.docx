@@ -1,3 +1,6 @@
 test 1
 
 update test.docx after added gitignore
+
+## after update gitignore
+I want to commit the docx file with a  message.
